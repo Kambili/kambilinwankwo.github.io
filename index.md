@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Kambili Nwankwo
 description: CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
